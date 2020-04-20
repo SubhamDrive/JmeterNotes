@@ -1,4 +1,6 @@
-JMETER NOTES
+JMETER NOTE1
+=============
+Chapter 4
 ============
 How To Install and run meter on Mac??
 
@@ -8,7 +10,7 @@ If you'll go through these steps:
 You won't have to solve any kind of issue. Don't thank 
 
 
-Chapter 1
+Chapter 2
 ===============
 Step 1 - Start Jmeter 
 Step 2 - Create a TestPlan
@@ -16,3 +18,17 @@ Step 3 - Create a Thread Group (Users)
 Step 4 - Add a Sampler (Http) 
 Step 5 - Add Listeners 
 Step 6 - To Run the Test
+
+Chapter 3
+===========
+Assertions = checks on the Response
+1. Response Assertion
+2. Duration Assertion
+3. Size Assertion
+4. HTML Assertion
+5. XML Assertion
+6. XPATH Assertion
+
+
+Chapter 4
+=============
