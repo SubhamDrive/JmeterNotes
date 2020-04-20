@@ -1,0 +1,68 @@
+line 4 column 9 - Warning: <meta> lacks "content" attribute
+line 147 column 16 - Warning: unknown attribute "property"
+line 147 column 54 - Warning: unknown attribute "property"
+line 148 column 9 - Warning: <script> lacks "type" attribute
+line 157 column 9 - Warning: <style> isn't allowed in <body> elements
+line 204 column 15 - Warning: <style> isn't allowed in <body> elements
+line 208 column 15 - Warning: <style> isn't allowed in <body> elements
+line 311 column 25 - Warning: <style> isn't allowed in <body> elements
+line 318 column 17 - Warning: unknown attribute "sizes"
+line 318 column 17 - Warning: link isn't allowed in <body> elements
+line 319 column 1 - Warning: unknown attribute "sizes"
+line 319 column 1 - Warning: link isn't allowed in <body> elements
+line 320 column 1 - Warning: link isn't allowed in <body> elements
+line 321 column 1 - Warning: meta isn't allowed in <body> elements
+line 322 column -3 - Warning: </head> isn't allowed in <body> elements
+line 324 column 1 - Warning: <body> isn't allowed in <body> elements
+line 334 column 9 - Error: <header> is not recognized!
+line 334 column 9 - Warning: discarding unexpected <header>
+line 344 column 50 - Warning: missing </a> before <h1>
+line 346 column 21 - Warning: discarding unexpected </a>
+line 350 column 59 - Warning: trimming empty <span>
+line 351 column 49 - Warning: trimming empty <button>
+line 352 column 50 - Error: <nav> is not recognized!
+line 352 column 50 - Warning: discarding unexpected <nav>
+line 357 column 53 - Warning: discarding unexpected </nav>
+line 361 column 191 - Warning: trimming empty <i>
+line 366 column 5 - Warning: discarding unexpected </header>
+line 373 column 9 - Warning: unknown attribute "role"
+line 376 column 17 - Error: <main> is not recognized!
+line 376 column 17 - Warning: discarding unexpected <main>
+line 379 column 25 - Error: <section> is not recognized!
+line 379 column 25 - Warning: discarding unexpected <section>
+line 383 column 1 - Error: <article> is not recognized!
+line 383 column 1 - Warning: discarding unexpected <article>
+line 387 column 9 - Error: <header> is not recognized!
+line 387 column 9 - Warning: discarding unexpected <header>
+line 391 column 5 - Warning: discarding unexpected </header>
+line 409 column 266 - Warning: unknown attribute "sizes"
+line 409 column 266 - Warning: unknown attribute "srcset"
+line 411 column 67 - Warning: unknown attribute "data-event_handler"
+line 411 column 67 - Warning: unknown attribute "data-plugin_v"
+line 411 column 67 - Warning: unknown attribute "data-engine"
+line 411 column 67 - Warning: unknown attribute "data-item_date"
+line 411 column 67 - Warning: unknown attribute "data-item_title"
+line 411 column 67 - Warning: unknown attribute "data-item_url"
+line 411 column 67 - Warning: unknown attribute "data-show_copyright"
+line 411 column 67 - Warning: unknown attribute "data-unlike_allowed"
+line 411 column 67 - Warning: unknown attribute "data-style"
+line 411 column 67 - Warning: unknown attribute "data-identifier"
+line 411 column 417 - Warning: trimming empty <span>
+line 411 column 458 - Warning: <style> lacks "type" attribute
+line 411 column 458 - Warning: <style> isn't allowed in <div> elements
+line 411 column 676 - Warning: unknown attribute "kid_directed_site"
+line 411 column 676 - Warning: unknown attribute "data-share"
+line 411 column 676 - Warning: unknown attribute "data-show-faces"
+line 411 column 676 - Warning: unknown attribute "data-action"
+line 411 column 676 - Warning: unknown attribute "data-layout"
+line 411 column 676 - Warning: unknown attribute "data-width"
+line 411 column 676 - Warning: unknown attribute "data-colorschem"
+line 411 column 676 - Warning: unknown attribute "data-size"
+line 411 column 676 - Warning: unknown attribute "data-href"
+line 411 column 974 - Warning: trimming empty <div>
+line 411 column 980 - Warning: trimming empty <div>
+InputStream: Doctype given is ""
+InputStream: Document content looks like HTML 4.01 Transitional
+82 warnings, 8 errors were found!
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.

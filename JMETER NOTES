@@ -1,0 +1,18 @@
+JMETER NOTES
+============
+How To Install and run meter on Mac??
+
+If you'll go through these steps:
+1. In the Terminal type brew install jmeter and hit Enter
+2. When it'll be done type jmeter and hit Enter again
+You won't have to solve any kind of issue. Don't thank 
+
+
+Chapter 1
+===============
+Step 1 - Start Jmeter 
+Step 2 - Create a TestPlan
+Step 3 - Create a Thread Group (Users) 
+Step 4 - Add a Sampler (Http) 
+Step 5 - Add Listeners 
+Step 6 - To Run the Test
