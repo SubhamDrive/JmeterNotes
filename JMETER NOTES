@@ -42,3 +42,21 @@ latency = time to first byte
 4. Graph Results
 5. Summary Report
 6. Simple Data Writer
+
+
+
+
+Chapter 5
+========================
+1. Tools available for recording Jmeter ui test
+ - Badboy software (Windows)
+ - Blazemeter - Chrome Plugin - (Windows and Mac)
+2. Record a Test
+3. Export as Jmeter (.jmx) Script
+4. Open the script in Jmeter
+5. Add listeners
+6. Run and validate
+
+
+
+
