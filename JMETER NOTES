@@ -59,7 +59,8 @@ Chapter 5	How To Record UI Test
 
 
 
-Chapter 6 Hot to test database
+Chapter 6 How to test database
+=================================
 MySQL database name:  	student
 MySQL username:  	subham
 MySQL user password:  	Subham$123
@@ -80,5 +81,84 @@ Here is a simple example for a connection URL:
 jdbc:mysql://localhost:3306/sakila?profileSQL=true
 Ref : https://dev.mysql.com/doc/connector-j/5.1/en/connector-jreference-configuration-properties.html
 Step 4 - Add JDBC Request
-Step 5 - Add Listeners
+Step 5 - Add Listener
 Step 6 - Run and validate
+
+Chapter 7 How to run test on command Line
+========================================
+
+Why to execute non-gui mode ?
+-gui - consumes more resources / memory
+-gui - not recommended for heavy load testing
+-command line - can be integrated with other systems -Jenkins/CI …
+Step 1 : Goto command line - goto jmeter - bin
+Step 2 : Command :
+jmeter -n -t (location of your jmeter test script) -l (location of
+the result file)
+
+ -n - non gui mode
+ -t - location of jmeter script
+ -l - location of result file
+jmeter -h - to get help on jmeter commands
+jmeter -? - to get information on jmeter command options
+
+
+
+Chapter 8> How to test FTP upload and download
+==============================================
+
+Step 1 : Add a FTP Request Sampler
+Step 2 : Add FTP connection parameters
+https://www.swfwmd.state.fl.us/data/ftp/
+Server: ftp.swfwmd.state.fl.us
+User Name: Anonymous
+(use your email address as password)
+Step 3 : Test a FTP GET and validate (get file from ftp server to
+local system)
+Step 4 : Test a FTP PUT and validate (transfer file from local to
+ftp server)
+(FileZilla client is used in this demo for physical validation of
+file transfer.
+You can use other FTP clients like WinSCP)
+
+
+chapter 9> Hot to test API ?
+==================================
+An Update:
+JMeter ver 3.2 onwards - SOAP/XML-RPC Request has been removed as
+part of Bug 60727. Use HTTP Request element as a replacement.
+See Building a WebService Test Plan http://jmeter.apache.org/
+usermanual/build-ws-test-plan.html
+API = Application Programming Interface
+exampleRestaurant - table — WAITER — kitchen
+real world example - makemytrip.com
+WebServices - client — API — server
+REST | SOAP
+How to test REST API
+————————————
+Step 1 : Add HTTP Request Sampler
+ OR
+ Add SOAP/XML-RPC Request Sampler
+
+Step 2 : Add REST API details
+(http://openweathermap.org/appid)
+api.openweathermap.org/data/2.5/forecast/city?
+id=524901&APPID=1111111111
+http://api.openweathermap.org/data/2.5/weather?
+q=NewDelhi&appid=5ad76b332e2fa27ea9859353e5fdd69d
+api.openweathermap.org
+/data/2.5/weather/
+q=NewDelhi
+appid=5ad76b332e2fa27ea9859353e5fdd69d
+
+Step 3 : Run and Validate
+How to test SOAP API
+————————————
+Step 1 : Add SOAP/XML-RPC Request Sampler
+Step 2 : Add details of the Soap API Request
+(http://www.webservicex.net/New/Home/ServiceDetail/56)
+Step 3 : Run and Validate
+
+
+
+
