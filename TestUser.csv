@@ -1,0 +1,301 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1587661841169,9568,HomePage,200,OK,User 1-2,text,true,,56009,113,20,20,http://lifecharger.org/,8334,0,288
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,20,20,null,0,0,0
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,20,20,null,0,0,0
+1587661841169,10293,HomePage,200,OK,User 1-1,text,true,,56009,113,19,19,http://lifecharger.org/,9565,0,294
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,19,19,null,0,0,0
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,19,19,null,0,0,0
+1587661841169,10819,HomePage,200,OK,User 1-3,text,true,,56023,113,18,18,http://lifecharger.org/,10233,0,287
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,18,18,null,0,0,0
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,18,18,null,0,0,0
+1587661841217,10775,HomePage,200,OK,User 1-4,text,true,,56010,113,17,17,http://lifecharger.org/,10233,0,253
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,17,17,null,0,0,0
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,17,17,null,0,0,0
+1587661841266,11739,HomePage,200,OK,User 1-5,text,true,,56036,113,16,16,http://lifecharger.org/,11152,0,270
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,16,16,null,0,0,0
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,16,16,null,0,0,0
+1587661841314,11696,HomePage,200,OK,User 1-6,text,true,,56017,113,15,15,http://lifecharger.org/,11138,0,253
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,15,15,null,0,0,0
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,15,15,null,0,0,0
+1587661841415,12016,HomePage,200,OK,User 1-8,text,true,,56037,113,14,14,http://lifecharger.org/,11098,0,259
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,14,14,null,0,0,0
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,14,14,null,0,0,0
+1587661841463,12510,HomePage,200,OK,User 1-9,text,true,,56050,113,13,13,http://lifecharger.org/,11947,0,258
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,13,13,null,0,0,0
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,13,13,null,0,0,0
+1587661841516,12465,HomePage,200,OK,User 1-10,text,true,,55996,113,12,12,http://lifecharger.org/,11907,0,250
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,12,12,null,0,0,0
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,12,12,null,0,0,0
+1587661841366,12618,HomePage,200,OK,User 1-7,text,true,,55996,113,11,11,http://lifecharger.org/,12060,0,266
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,11,11,null,0,0,0
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,11,11,null,0,0,0
+1587661841618,12419,HomePage,200,OK,User 1-12,text,true,,55996,113,10,10,http://lifecharger.org/,11885,0,257
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-12,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,10,10,null,0,0,0
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-12,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,10,10,null,0,0,0
+1587661841967,12441,HomePage,200,OK,User 1-19,text,true,,56023,113,9,9,http://lifecharger.org/,11560,0,253
+1587661841766,12642,HomePage,200,OK,User 1-15,text,true,,55996,113,9,9,http://lifecharger.org/,11775,0,256
+1587661841568,12840,HomePage,200,OK,User 1-11,text,true,,56003,113,9,9,http://lifecharger.org/,12048,0,287
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-19,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,9,9,null,0,0,0
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-15,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,9,9,null,0,0,0
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,9,9,null,0,0,0
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-19,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,9,9,null,0,0,0
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-15,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,9,9,null,0,0,0
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,9,9,null,0,0,0
+1587661841716,12718,HomePage,200,OK,User 1-14,text,true,,56002,113,6,6,http://lifecharger.org/,11825,0,254
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-14,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,6,6,null,0,0,0
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-14,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,6,6,null,0,0,0
+1587661841667,12792,HomePage,200,OK,User 1-13,text,true,,56003,113,5,5,http://lifecharger.org/,11959,0,253
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,5,5,null,0,0,0
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,5,5,null,0,0,0
+1587661841866,13122,HomePage,200,OK,User 1-17,text,true,,55996,113,4,4,http://lifecharger.org/,12581,0,260
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,4,4,null,0,0,0
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,4,4,null,0,0,0
+1587661841913,13076,HomePage,200,OK,User 1-18,text,true,,56044,113,3,3,http://lifecharger.org/,12543,0,259
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,3,3,null,0,0,0
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,3,3,null,0,0,0
+1587661842018,13045,HomePage,200,OK,User 1-20,text,true,,56029,113,2,2,http://lifecharger.org/,12530,0,252
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,2,2,null,0,0,0
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,2,2,null,0,0,0
+1587661841816,13510,HomePage,200,OK,User 1-16,text,true,,55996,113,1,1,http://lifecharger.org/,12745,0,277
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,1,1,null,0,0,0
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',User 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.MalformedURLException]]]
+
+****** comparison: [[[200                                                   ]]]
+
+/",862,0,1,1,null,0,0,0
