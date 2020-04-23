@@ -161,4 +161,59 @@ Step 3 : Run and Validate
 
 
 
+Chapter 10>How to create assretions for JDBC
+================================================
+to watch before this video : How to create a Database Test Plan
+Step 1 : Add a Response Assertion
+Step 2 : Add variable names in JDBC Request
 
+Col1,Col2,Col3,Col4
+Col1 Col2 Col3 Col4
+=== === === ===
+ID Name Age Country
+1 Raghav 30 India
+2 Tom 40 New Zealand
+Col4_2 = NewZealand
+Col2_2 = Tom
+Step 3 : In Response Assertion add Jmeter Variable and Pattern to
+Test
+Step 4 : Add Listener Assertion Results
+Step 5 : Run and validate
+
+
+Chapter 11>How to create Html Reports after running project
+===========================================================
+
+(This feature will work in jmeter 3.0 and later ver.)
+Step 1 : Create Test Plan and save it (and close).
+Step 2 : Open command line and change dir to jmeter/bin
+Step 3 : Execute command:
+
+ to create report at the end of the test
+ —————————————————————
+ jmeter -n -t “location of the jmeter script” -l “location of
+result file”
+ -e -o “location of the output folder”
+ create report from a standalone csv file
+ ——————————————————————
+ jmeter -g “location of csv file” -o “location of output folder”
+
+Step 4 : Analyse HTML (Dashboard) Reports
+
+To create and run the jmeter program and html
+
+jmeter -n -t /Users/driveu/Documents/JmeterNotes/UserLife.jmx -l /Users/driveu/Documents/JmeterNotes/TestUser.csv -e -o /Users/driveu/Documents/JmeterNotes/HtmlReport1
+
+
+
+Chapter 12>How to add Pulgins
+===============================
+Manage Plugins - Quick & Easy
+Install new plugins
+Remove old plugins
+Upgrade existing plugins
+Information on plugins
+Step 1 : Download jmeter plugin manager jar and add to jmeter/lib/
+ext folder
+ (Restart Jmeter)
+Step 2 : Find Plugin Manager under options Menu
