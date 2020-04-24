@@ -204,6 +204,8 @@ To create and run the jmeter program and html
 
 jmeter -n -t /Users/driveu/Documents/JmeterNotes/UserLife.jmx -l /Users/driveu/Documents/JmeterNotes/TestUser.csv -e -o /Users/driveu/Documents/JmeterNotes/HtmlReport1
 
+jmeter -n -t /Users/driveu/Documents/JmeterNotes/driveutest.jmx -l /Users/driveu/Documents/JmeterNotes/TestUser1.csv -e -o /Users/driveu/Documents/JmeterNotes/DriveuReport
+
 
 
 Chapter 12>How to add Pulgins
@@ -217,3 +219,12 @@ Step 1 : Download jmeter plugin manager jar and add to jmeter/lib/
 ext folder
  (Restart Jmeter)
 Step 2 : Find Plugin Manager under options Menu
+
+
+
+Chapter 13>How to read data from csv file
+===============================================
+Step 1 : Add config element - CSV Data Set Config
+Step 2 : Add details in CSV Data Set Config
+Step 3 : Update value fields: ${variable_name}
+Step 4 : Run and validate
